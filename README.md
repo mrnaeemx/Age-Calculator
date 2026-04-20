@@ -11,4 +11,4 @@ A simple project that calculates age based on date of birth.
 2. Run the file
 
 ## Author
-Muhammad Naeem
+Muhammad Naeem Ullah Aziz
